@@ -7,3 +7,9 @@ class T(unittest.TestCase):
 
 if __name__ == "__main__":
     unittest.main()
+
+
+class T2(unittest.TestCase):
+    def test_subtract(self):
+        from app import subtract
+        self.assertEqual(subtract(5, 2), 3)
