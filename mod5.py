@@ -4,3 +4,7 @@ def f5(x):
 
 def g5(x):
     return x + 5
+
+
+def h5(x):
+    return x - 5
