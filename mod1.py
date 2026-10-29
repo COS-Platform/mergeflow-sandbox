@@ -8,3 +8,7 @@ def g1(x):
 
 def h1(x):
     return x - 1
+
+
+def k1(x):
+    return x * 1
