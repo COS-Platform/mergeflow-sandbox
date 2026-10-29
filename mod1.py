@@ -12,3 +12,7 @@ def h1(x):
 
 def k1(x):
     return x * 1
+
+
+def m1(x):
+    return x ** 1
