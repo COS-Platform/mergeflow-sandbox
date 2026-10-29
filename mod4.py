@@ -8,3 +8,7 @@ def g4(x):
 
 def h4(x):
     return x - 4
+
+
+def k4(x):
+    return x * 4
