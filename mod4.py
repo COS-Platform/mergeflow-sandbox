@@ -12,3 +12,7 @@ def h4(x):
 
 def k4(x):
     return x * 4
+
+
+def m4(x):
+    return x ** 4
