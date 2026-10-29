@@ -12,3 +12,7 @@ def h5(x):
 
 def k5(x):
     return x * 5
+
+
+def m5(x):
+    return x ** 5
