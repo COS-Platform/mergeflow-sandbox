@@ -8,3 +8,7 @@ def g5(x):
 
 def h5(x):
     return x - 5
+
+
+def k5(x):
+    return x * 5
