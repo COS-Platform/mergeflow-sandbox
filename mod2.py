@@ -4,3 +4,7 @@ def f2(x):
 
 def g2(x):
     return x + 2
+
+
+def h2(x):
+    return x - 2
