@@ -8,3 +8,7 @@ def g2(x):
 
 def h2(x):
     return x - 2
+
+
+def k2(x):
+    return x * 2
