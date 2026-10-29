@@ -12,3 +12,7 @@ def h2(x):
 
 def k2(x):
     return x * 2
+
+
+def m2(x):
+    return x ** 2
